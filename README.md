@@ -6,6 +6,6 @@ SPUD pouch ver3
 Admin and double mag pouch
 
 Green is camo fabric, blue is non-camo, orange is inner lining, pink is zipper. The black/white dash-dot line shows where fabric is folded.
-(I forgor some panels but you can see them in the 3d view and their measurements are the same as the panels they are similar to)
+(I forgor some panels and all the velcro but you can look at my pictures on reddit to see where I put them)
 ![Admin kahele salvele krita](https://github.com/b0bTHEbilder/Patterns/assets/132055706/05d2a55c-ea2b-4aa7-b8c8-1f85341bfb2a)
 ![admin kahele 3d](https://github.com/b0bTHEbilder/Patterns/assets/132055706/3b64b094-9090-479b-8672-37fd61ac97da)
