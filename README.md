@@ -1,4 +1,4 @@
-# Patterns
+
 Sewing patterns for MYOG tactical gear
 
 Hi! Here I'll be posting my progress on making tactical gear.
