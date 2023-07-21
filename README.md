@@ -1,2 +1,9 @@
-Test
+I apologize for the bad formatting of the plans, I am new to github. Will hopefully figure stuff out as time goes on.
+
+SPUD pouch ver3
 ![3-ne SPUD ver3 (1)](https://github.com/b0bTHEbilder/Patterns/assets/132055706/1969da75-dfb5-4e29-ada8-d5b9f4d3faf0)
+
+Admin and double mag pouch
+Green is camo fabric, blue is non-camo, orange is inner lining, pink is zipper.
+![admin kahele salvele v2 5](https://github.com/b0bTHEbilder/Patterns/assets/132055706/3c3ad1e4-eb6a-4f42-b630-202b6777f9bf)
+![admin kahele salvele v2 5 mustvalge](https://github.com/b0bTHEbilder/Patterns/assets/132055706/8fc1f4c8-696f-4050-ab4a-13d8f855e895)
