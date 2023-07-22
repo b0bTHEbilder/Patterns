@@ -36,4 +36,5 @@ To cut the back molle basically do the same thing as with the front panel but in
 The bottom is just sewn onto the ends of the zipper, the ends are then edge binded. The separator is not sewn on it's own, the sewing lines show where it's sewn onto the MAG SLEEVE and MIDDLE WALL right in between the velcro panels and at the same height as them.
 ![Bottom and separator](https://github.com/b0bTHEbilder/Patterns/assets/132055706/f5bd7ad9-c8dc-44fb-9eca-a7b4ea1c1f23)
 ![image](https://github.com/b0bTHEbilder/Patterns/assets/132055706/20b9fc87-c695-49f2-b2ce-f139712b0582)
+![image](https://github.com/b0bTHEbilder/Patterns/assets/132055706/4eb0790a-410f-4f6e-b774-a8df4b5bb21c)
 
