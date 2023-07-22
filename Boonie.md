@@ -1,4 +1,6 @@
-Coming soon...
+Boonie hat fabric templates.
+
+Solid line is edge, dash line is sewing line, dash dot line is symmetry.
 
 
 --BRIM--
