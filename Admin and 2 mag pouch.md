@@ -1,4 +1,5 @@
 These are the templates for all the pieces needed to make the admin and 2 mag pouch. 
+Solid lines show edges, dash-lines show sewing lines and dash-dot-lines show where fabric is folded.
 
 --FRONT PANEL--
 
@@ -28,7 +29,9 @@ To cut the back molle basically do the same thing as with the front panel but in
 --ZIPPER--
 
 ![ZIpper](https://github.com/b0bTHEbilder/Patterns/assets/132055706/33b970fe-766f-4fc1-8e20-e4fbbcb1045f)
+![image](https://github.com/b0bTHEbilder/Patterns/assets/132055706/b665711d-a513-4ecd-b1e2-50b5eb77e3ef)
 
 --BOTTOM and SEPARATOR-- 
 
+The bottom is just sewn onto the ends of the zipper, the ends are then edge binded. The separator is not sewn on it's own, the sewing lines show where it's sewn onto the MAG SLEEVE and MIDDLE WALL right in between the velcro panels and at the same height as them.
 ![Bottom and separator](https://github.com/b0bTHEbilder/Patterns/assets/132055706/f5bd7ad9-c8dc-44fb-9eca-a7b4ea1c1f23)
