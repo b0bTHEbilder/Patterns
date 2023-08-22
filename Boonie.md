@@ -21,3 +21,7 @@ This is how to make a paper template for the boonies wall. First cut out two of 
 
 ![Top-fabric](https://github.com/b0bTHEbilder/Patterns/assets/132055706/a0c2771c-79bc-4add-9276-c3d800513a7c)
 ![Top-mesh](https://github.com/b0bTHEbilder/Patterns/assets/132055706/a384b3b7-097b-4a51-ac53-7809e45412f9)
+
+--INSIDE SPACER THINGY--  
+<img width="1014" alt="image" src="https://github.com/b0bTHEbilder/Patterns/assets/132055706/e4f11784-cdd9-4ef9-85a6-fcd700776f81">
+
