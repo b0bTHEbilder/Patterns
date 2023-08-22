@@ -23,5 +23,6 @@ This is how to make a paper template for the boonies wall. First cut out two of 
 ![Top-mesh](https://github.com/b0bTHEbilder/Patterns/assets/132055706/a384b3b7-097b-4a51-ac53-7809e45412f9)
 
 --INSIDE SPACER THINGY--  
+I made it from a heavy mesh material from Tacticaltrim, but it doesn't breathe well when folded so I'm looking into the Coolmax Fresh Fabric from Shelbyoutdoors.
 <img width="1014" alt="image" src="https://github.com/b0bTHEbilder/Patterns/assets/132055706/e4f11784-cdd9-4ef9-85a6-fcd700776f81">
 
