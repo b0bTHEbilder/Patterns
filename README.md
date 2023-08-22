@@ -7,7 +7,9 @@ As this is a work in progress and I have no idea what I'm doing if you have any 
 
 ![image](https://github.com/b0bTHEbilder/Patterns/assets/132055706/c2090a6f-36fd-4b99-9194-8c97633732e2)
 
-Sources for fabric and other sewing stuff I use(d):
-https://www.tacticaltrim.de
-https://www.adventurexpert.com
-uhh i dont remember any more but there are about 10, will update when rember
+Sources for fabric and other sewing stuff I use(d):  
+https://www.tacticaltrim.de  
+https://www.adventurexpert.com   
+https://www.varusteleka.com/en  
+https://www.shelbyoutdoor.com  
+https://www.extremtextil.de/en/  
